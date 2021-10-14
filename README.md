@@ -1,6 +1,6 @@
 # Next Ethereum Hardhat
 
-* Hardhat dev. environment for study of Ethereum DApp and networking with Metamask crypto wallet using Next.js frontend
+* Hardhat dev. environment for study of Ethereum DApp, Solidity and networking with Metamask crypto wallet using Next.js frontend
 * **Note:** to open web links in a new window use: _ctrl+click on link_
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/next-ethereum-hardhat?style=plastic)
@@ -30,14 +30,14 @@
 
 ## :camera: Screenshots
 
-![Example screenshot](./imgs/blockchain.png)
+* tba
 
 ## :signal_strength: Technologies
 
 * [Hardhat v2](https://www.npmjs.com/package/hardhat)
-* [Ethereum](https://ethereum.org/en/dapps/) decentralised app (DApps)
+* [Ethereum](https://ethereum.org/en/dapps/) decentralised app (DApp)
 * [Remix Ethereum](https://remix.ethereum.org/) Solidity compiler
-* [Alchemy Blockchain Dev. Platform](https://www.alchemy.com/)
+* [Alchemy](https://www.alchemy.com/) blockchain dev. platform
 * [Solidity v0.8.6](https://docs.soliditylang.org/en/latest/) a curly-bracket, object-oriented, high-level language for implementing smart contracts
 * [Metamask](https://metamask.io/) crypto wallet
 * [hardhat-shorthand v1](https://www.npmjs.com/package/hardhat-shorthand) - a globally accessible binary called hh that runs the project's locally installed hardhat and supports shell autocompletion for tasks
@@ -71,6 +71,8 @@
 * [Installing Hardhat 👷🏽with NextJS 001 | How to build Dapp with NextJS (Ethereum Version) [2021]](https://www.youtube.com/watch?v=ioSLaSY3Vlw)
 * [Writing a Smart Contract in Solidity 002 | How to build Dapp with NextJS (Ethereum Version) [2021]](https://www.youtube.com/watch?v=d2XNZ27pOHU)
 * [Hardhat Configuration 003 | How to build Dapp with NextJS (Ethereum Version) [2021]](https://www.youtube.com/watch?v=20noXSpJEWM)
+
+**other**
 * [IBM: What are smart contracts on blockchain?](https://www.ibm.com/topics/smart-contracts)
 
 ## :file_folder: License
